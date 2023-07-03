@@ -1,3 +1,3 @@
 # Python-University-of-Michigan
-Python University of Michigan
-These are code assignments from the Python 3 Specialization course from University of Michigan.
+## Python 3 Specialization
+Codes, assignments and assignments are stored here.
